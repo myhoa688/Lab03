@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03-01", "Lab03-01\Lab03-01.csproj", "{86F88C25-690E-44C1-B665-DC094D66F24F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03-02", "Lab03-02\Lab03-02.csproj", "{ECB610D1-FEB8-4780-B4E0-C35ED606177A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03-3", "Lab03-3\Lab03-3.csproj", "{7C39D7D8-A238-4380-A488-D5A720B3043F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F88C25-690E-44C1-B665-DC094D66F24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F88C25-690E-44C1-B665-DC094D66F24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F88C25-690E-44C1-B665-DC094D66F24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F88C25-690E-44C1-B665-DC094D66F24F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB610D1-FEB8-4780-B4E0-C35ED606177A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB610D1-FEB8-4780-B4E0-C35ED606177A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB610D1-FEB8-4780-B4E0-C35ED606177A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB610D1-FEB8-4780-B4E0-C35ED606177A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C39D7D8-A238-4380-A488-D5A720B3043F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C39D7D8-A238-4380-A488-D5A720B3043F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C39D7D8-A238-4380-A488-D5A720B3043F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C39D7D8-A238-4380-A488-D5A720B3043F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A74994A6-55CA-4465-AE23-8600BADBE4DD}
+	EndGlobalSection
+EndGlobal
